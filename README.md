@@ -6,3 +6,4 @@ New paragraph
 * First
 * Second
 * Third
+* Fourth
