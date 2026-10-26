@@ -6,6 +6,3 @@ New paragraph
 * First
 * Second
 * Third
-- one
-- two
-- three
